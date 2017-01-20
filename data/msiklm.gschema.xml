@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<schemalist>
+
+  <schema path="/org/seb/msiklm/" id="org.seb.msiklm">
+
+    <key name='gaming-mode' type='b'>
+      <default>false</default>
+      <summary>Gaming Mode</summary>
+      <description>
+        If enabled, only the left side of the keyboard (containing WASD keys) 
+        is lit.
+      </description>
+    </key>
+
+    <key name='left-color' type='s'>
+      <default>'ff0000'</default>
+      <summary>Left Color</summary>
+      <description>
+        Left Color.
+      </description>
+    </key>
+
+    <key name='middle-color' type='s'>
+      <default>'ff0000'</default>
+      <summary>Middle Color</summary>
+      <description>
+        Middle Color.
+      </description>
+    </key>
+
+    <key name='right-color' type='s'>
+      <default>'ff0000'</default>
+      <summary>Right Color</summary>
+      <description>
+        Right Color.
+      </description>
+    </key>
+
+  </schema>
+
+</schemalist>
