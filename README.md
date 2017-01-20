@@ -5,7 +5,8 @@ To install:
 Use install.sh to compile the GSettings schema (to be done once before first run).
 
 To run:
-open a terminal, then cahnge dir to the root directory of the repoand launch the script:
+open a terminal, then change dir to the root directory of the repo and launch the script:
+
 ./msiklm_ui.js
 
 or
