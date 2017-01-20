@@ -16,6 +16,7 @@ gjs msiklm_ui.js
 Adding '-s' on the command line will reapply the settings without launching the UI. Useful to reapply settings on login. For example, you can add these lines to the end of your .profile (adjust path accordingly): 
 
 cd msiklm_ui
+
 ./msiklm_ui.js -s
 
 
